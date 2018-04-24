@@ -42,5 +42,17 @@
     <itunes:explicit>no</itunes:explicit>
     <guid>http://www.aufeinohr.de/posts/start</guid>
 </item>
+<item>
+    <title>Meine erste Woche</title>
+    <itunes:summary>Nix gewonnen beim Blitzmarathon, trotzdem Auto Rückruf, Gartenaktion im Kletterwald</itunes:summary>
+    <description>Nix gewonnen beim Blitzmarathon, trotzdem Auto Rückruf, Gartenaktion im Kletterwald</description>
+    <link>http://www.aufeinohr.de/posts/erstewoche</link>
+    <enclosure url="http://www.aufeinohr.de/content/episodes/EP02_AufEinOhr-Podcast.m4a" type="audio/mp4" length="1024"></enclosure>
+    <pubDate>Due, 25 Apr 2018 00:26:12 +0000</pubDate>
+    <itunes:author>AufEinOhr</itunes:author>
+    <itunes:duration>00:08:48</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>http://www.aufeinohr.de/posts/erstewoche</guid>
+</item>
 </channel>
 </rss>
