@@ -58,12 +58,26 @@
     <title>Wochenende</title>
     <description>Ein kurzer und knapper Einstieg ins Wochenende</description>
     <itunes:summary>Ein kurzer und knapper Einstieg ins Wochenende</itunes:summary>
+    <link>http://www.aufeinohr.de/posts/wochenende</link>
     <enclosure url="http://www.aufeinohr.de/content/episodes/EP03_AufEinOhr-Podcast.m4a" type="audio/mpeg" length="1" />
     <guid>http://www.aufeinohr.de/posts/wochenende</guid>
     <pubDate>Sat, 28 Apr 2018 10:22:26 +0200</pubDate>
-    <itunes:author>Sven@AufEinOhr</itunes:author>
+    <itunes:author>AufEinOhr</itunes:author>
     <itunes:duration>0:01:22</itunes:duration>
     <itunes:explicit>NO</itunes:explicit>
 </item>
+<item>
+    <title>Auf ein Floß</title>
+    <description>auf dem Floß Durst und Hydranten gespült.</description>
+    <itunes:summary>auf dem Floß Durst und Hydranten gespült.</itunes:summary>
+    <link>http://www.aufeinohr.de/posts/aufeinfloss</link>
+    <enclosure url="http://www.aufeinohr.de/content/episodes/EP04_AufEinOhr-Podcast.m4a" type="audio/mpeg" length="1" />
+    <guid>http://www.aufeinohr.de/content/episodes/EP04_AufEinOhr-Podcast.m4a</guid>
+    <pubDate>Thu, 3 May 2018 00:59:43 +0200</pubDate>
+    <itunes:author>AufEinOhr</itunes:author>
+    <itunes:duration>0:07:00</itunes:duration>
+    <itunes:explicit>NO</itunes:explicit>
+</item>
+
 </channel>
 </rss>
