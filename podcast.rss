@@ -1,120 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-<channel>
-<title>Auf ein Ohr</title>
-<link>https://www.aufeinohr.de</link>
-<language>de-de</language>
-<itunes:subtitle>Ein personal Podcast zum Hören auf die Öhren</itunes:subtitle>
-<itunes:author>AufEinOhr.de</itunes:author>
-<itunes:summary>Ein personal Podcast zum Hören auf die Öhren</itunes:summary>
-<description>Ein personal Podcast zum Hören auf die Öhren</description>
-<itunes:owner>
-    <itunes:name>AufEinOhr.de</itunes:name>
-    <itunes:email>info@AufEinOhr.de</itunes:email>
-</itunes:owner>
-<itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://www.aufeinohr.de/content/podcast-icon.jpg"></itunes:image>
-<itunes:category text="Technology"></itunes:category>
-
-<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
-<item>
-    <title>Test</title>
-    <itunes:summary>Test des Workflows und der RSS Erstellung</itunes:summary>
-    <description>Test des Workflows und der RSS Erstellung</description>
-    <link>http://www.aufeinohr.de/posts/test</link>
-    <enclosure url="http://www.aufeinohr.de/content/episodes/tetris.m4a" type="audio/mp4" length="1024"></enclosure>
-    <pubDate>Wed, 28 Mar 2018 13:26:12 +0000</pubDate>
-    <itunes:author>AufEinOhr</itunes:author>
-    <itunes:duration>00:01:48</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <guid>http://www.aufeinohr.de/posts/test</guid>
-</item>
-<!--END REPEAT-->
-<item>
-    <title>Los gehts</title>
-    <itunes:summary>Auf ein Ohr startet mit einem Gruß an den Planeten.</itunes:summary>
-    <description>Auf ein Ohr startet mit einem Gruß an den Planeten.</description>
-    <link>http://www.aufeinohr.de/posts/start</link>
-    <enclosure url="http://www.aufeinohr.de/content/episodes/EP01_AufEinOhr-Podcast.m4a" type="audio/mp4" length="1024"></enclosure>
-    <pubDate>Wed, 18 Apr 2018 18:26:12 +0000</pubDate>
-    <itunes:author>AufEinOhr</itunes:author>
-    <itunes:duration>00:01:48</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <guid>http://www.aufeinohr.de/posts/start</guid>
-</item>
-<item>
-    <title>Meine erste Woche</title>
-    <itunes:summary>Nix gewonnen beim Blitzmarathon, trotzdem Auto Rückruf, Gartenaktion im Kletterwald</itunes:summary>
-    <description>Nix gewonnen beim Blitzmarathon, trotzdem Auto Rückruf, Gartenaktion im Kletterwald</description>
-    <link>http://www.aufeinohr.de/posts/erstewoche</link>
-    <enclosure url="http://www.aufeinohr.de/content/episodes/EP02_AufEinOhr-Podcast.m4a" type="audio/mp4" length="1024"></enclosure>
-    <pubDate>Tue, 25 Apr 2018 00:26:12 +0000</pubDate>
-    <itunes:author>AufEinOhr</itunes:author>
-    <itunes:duration>00:08:48</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <guid>http://www.aufeinohr.de/posts/erstewoche</guid>
-</item>
-<item>
-    <title>Wochenende</title>
-    <description>Ein kurzer und knapper Einstieg ins Wochenende</description>
-    <itunes:summary>Ein kurzer und knapper Einstieg ins Wochenende</itunes:summary>
-    <link>http://www.aufeinohr.de/posts/wochenende</link>
-    <enclosure url="http://www.aufeinohr.de/content/episodes/EP03_AufEinOhr-Podcast.m4a" type="audio/mpeg" length="1" />
-    <guid>http://www.aufeinohr.de/posts/wochenende</guid>
-    <pubDate>Sat, 28 Apr 2018 10:22:26 +0200</pubDate>
-    <itunes:author>AufEinOhr</itunes:author>
-    <itunes:duration>0:01:22</itunes:duration>
-    <itunes:explicit>NO</itunes:explicit>
-</item>
-<item>
-    <title>Auf ein Floß</title>
-    <description>auf dem Floß Durst und Hydranten gespült.</description>
-    <itunes:summary>auf dem Floß Durst und Hydranten gespült.</itunes:summary>
-    <link>http://www.aufeinohr.de/posts/aufeinfloss</link>
-    <enclosure url="http://www.aufeinohr.de/content/episodes/EP04_AufEinOhr-Podcast.m4a" type="audio/mpeg" length="1" />
-    <guid>http://www.aufeinohr.de/content/episodes/EP04_AufEinOhr-Podcast.m4a</guid>
-    <pubDate>Thu, 3 May 2018 00:59:43 +0200</pubDate>
-    <itunes:author>AufEinOhr</itunes:author>
-    <itunes:duration>0:07:00</itunes:duration>
-    <itunes:explicit>NO</itunes:explicit>
-</item>
-<item>
-    <title>Vatertag</title>
-    <description>Mit Blitz und Donner den Vatertag am Grill verbracht</description>
-    <itunes:summary>Mit Blitz und Donner den Vatertag am Grill verbracht</itunes:summary>
-    <link>https://aufeinohr.de/posts/vatertag</link>
-    <enclosure url="https://www.aufeinohr.de/content/episodes/EP05_AufEinOhr-Podcast.m4a" type="audio/mpeg" length="1" />
-    <guid>https://www.aufeinohr.de/content/episodes/EP05_AufEinOhr-Podcast.m4a</guid>
-    <pubDate>Thu, 10 May 2018 14:55:05 +0200</pubDate>
-    <itunes:author>AufEinOhr.de</itunes:author>
-    <itunes:duration>0:07:00</itunes:duration>
-    <itunes:explicit>NO</itunes:explicit>
-</item>
-<item>
-    <title>Auf ein Hallo</title>
-    <description>Ja es gibt mich noch und es geht mir gut. Leider findet sich kaum Zeit einen Podcast aufzunehmen. Darum hier nur eine qualitativ schlechte und wenig Information beinhaltende Folge, aus dem Auto. Ungeschnitten und am Stück. Ich entschuldige mich für diese schlechte Folge schon im Voraus. Aufgenommen mit der Sprachmemo-App und den AirPods.
-Aber ich wollte einfach mal kurz Hallo sagen.</description>
-    <itunes:summary>Ja es gibt mich noch und es geht mir gut. Leider findet sich kaum Zeit einen Podcast aufzunehmen. Darum hier nur eine qualitativ schlechte und wenig Information beinhaltende Folge, aus dem Auto. Ungeschnitten und am Stück. Ich entschuldige mich für diese schlechte Folge schon im Voraus. Aufgenommen mit der Sprachmemo-App und den AirPods.
+    <channel>
+        <title>Auf ein Ohr</title>
+        <link>https://www.aufeinohr.de</link>
+        <language>de-de</language>
+        <description>Ein personal Podcast zum Hören auf die Öhren</description>
+        <itunes:subtitle>Ein personal Podcast zum Hören auf die Öhren</itunes:subtitle>
+        <itunes:author>AufEinOhr.de</itunes:author>
+        <itunes:summary>Ein personal Podcast zum Hören auf die Öhren</itunes:summary>
+        <itunes:owner>
+            <name>AufEinOhr.de</name>
+            <email>info@AufEinOhr.de</email>
+        </itunes:owner>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://www.aufeinohr.de/content/podcast-icon.jpg"></itunes:image>
+        <itunes:category text="Technology"></itunes:category>
+        <item>
+            <title>Test</title>
+            <itunes:summary>Test des Workflows und der RSS Erstellung</itunes:summary>
+            <description>Test des Workflows und der RSS Erstellung</description>
+            <link>https://www.aufeinohr.de/posts/test</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/tetris.m4a"></enclosure>
+            <pubDate>Wed, 28 Mar 2018 13:26:12 +0000</pubDate>
+            <itunes:author>AufEinOhr</itunes:author>
+            <itunes:duration>00:01:48</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <guid>http://www.aufeinohr.de/posts/test</guid>
+        </item>
+        <item>
+            <title>Los gehts</title>
+            <itunes:summary>Auf ein Ohr startet mit einem Gruß an den Planeten.</itunes:summary>
+            <description>Auf ein Ohr startet mit einem Gruß an den Planeten.</description>
+            <link>https://www.aufeinohr.de/posts/start</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/EP01_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Wed, 18 Apr 2018 18:26:12 +0000</pubDate>
+            <itunes:author>AufEinOhr</itunes:author>
+            <itunes:duration>00:01:48</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <guid>http://www.aufeinohr.de/posts/start</guid>
+        </item>
+        <item>
+            <title>Meine erste Woche</title>
+            <itunes:summary>Nix gewonnen beim Blitzmarathon, trotzdem Auto Rückruf, Gartenaktion im Kletterwald</itunes:summary>
+            <description>Nix gewonnen beim Blitzmarathon, trotzdem Auto Rückruf, Gartenaktion im Kletterwald</description>
+            <link>https://www.aufeinohr.de/posts/erstewoche</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/EP02_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Tue, 25 Apr 2018 00:26:12 +0000</pubDate>
+            <itunes:author>AufEinOhr</itunes:author>
+            <itunes:duration>00:08:48</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <guid>http://www.aufeinohr.de/posts/erstewoche</guid>
+        </item>
+        <item>
+            <title>Wochenende</title>
+            <itunes:summary>Ein kurzer und knapper Einstieg ins Wochenende</itunes:summary>
+            <description>Ein kurzer und knapper Einstieg ins Wochenende</description>
+            <link>https://www.aufeinohr.de/posts/wochenende</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/EP03_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Sat, 28 Apr 2018 10:22:26 +0200</pubDate>
+            <itunes:author>AufEinOhr</itunes:author>
+            <itunes:duration>0:01:22</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>http://www.aufeinohr.de/posts/wochenende</guid>
+        </item>
+        <item>
+            <title>Auf ein Floß</title>
+            <itunes:summary>auf dem Floß Durst und Hydranten gespült.</itunes:summary>
+            <description>auf dem Floß Durst und Hydranten gespült.</description>
+            <link>https://www.aufeinohr.de/posts/aufeinfloss</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/EP04_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Thu, 3 May 2018 00:59:43 +0200</pubDate>
+            <itunes:author>AufEinOhr</itunes:author>
+            <itunes:duration>0:07:00</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>http://www.aufeinohr.de/content/episodes/EP04_AufEinOhr-Podcast.m4a</guid>
+        </item>
+        <item>
+            <title>Vatertag</title>
+            <itunes:summary>Mit Blitz und Donner den Vatertag am Grill verbracht</itunes:summary>
+            <description>Mit Blitz und Donner den Vatertag am Grill verbracht</description>
+            <link>https://aufeinohr.de/posts/vatertag</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/EP05_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Thu, 10 May 2018 14:55:05 +0200</pubDate>
+            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:duration>0:07:00</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>https://www.aufeinohr.de/content/episodes/EP05_AufEinOhr-Podcast.m4a</guid>
+        </item>
+        <item>
+            <title>Auf ein Hallo</title>
+            <itunes:summary>Ja es gibt mich noch und es geht mir gut. Leider findet sich kaum Zeit einen Podcast aufzunehmen. Darum hier nur eine qualitativ schlechte und wenig Information beinhaltende Folge, aus dem Auto. Ungeschnitten und am Stück. Ich entschuldige mich für diese schlechte Folge schon im Voraus. Aufgenommen mit der Sprachmemo-App und den AirPods.
 Aber ich wollte einfach mal kurz Hallo sagen.</itunes:summary>
-    <link>http://www.aufeinohr.de/posts/auf-ein-hallo</link>
-    <enclosure url="https://www.aufeinohr.de/content/episodes/EP06_AufEinOhr-Podcast.m4a" type="audio/mpeg" length="1" />
-    <guid>https://www.aufeinohr.de/content/episodes/EP06_AufEinOhr-Podcast.m4a</guid>
-    <pubDate>Wed, 11 Jul 2018 09:04:11 +0200</pubDate>
-    <itunes:author>AufEinOhr.de</itunes:author>
-    <itunes:duration>0:05:00</itunes:duration>
-    <itunes:explicit>NO</itunes:explicit>
-</item>
-<item>
-    <title>Angriff aus dem Untergrund</title>
-    <description>Die Wiese sieht aus wie ein Schlachtfeld. Wie bekomme ich den ungebetenen Gast wieder los?</description>
-    <itunes:summary>Die Wiese sieht aus wie ein Schlachtfeld. Wie bekomme ich den ungebetenen Gast wieder los?</itunes:summary>
-    <link>http://www.aufeinohr.de/posts/angriff-aus-dem-untergrund</link>
-    <enclosure url="https://www.aufeinohr.de/content/episodes/EP07_AufEinOhr-Podcast.m4a" type="audio/mpeg" length="1" />
-    <guid>https://www.aufeinohr.de/content/episodes/EP07_AufEinOhr-Podcast.m4a</guid>
-    <pubDate>Wed, 21 Jul 2018 11:24:11 +0200</pubDate>
-    <itunes:author>AufEinOhr.de</itunes:author>
-    <itunes:duration>0:03:07</itunes:duration>
-    <itunes:explicit>NO</itunes:explicit>
-</item>
-</channel>
+            <description>Ja es gibt mich noch und es geht mir gut. Leider findet sich kaum Zeit einen Podcast aufzunehmen. Darum hier nur eine qualitativ schlechte und wenig Information beinhaltende Folge, aus dem Auto. Ungeschnitten und am Stück. Ich entschuldige mich für diese schlechte Folge schon im Voraus. Aufgenommen mit der Sprachmemo-App und den AirPods.
+Aber ich wollte einfach mal kurz Hallo sagen.</description>
+            <link>https://www.aufeinohr.de/posts/auf-ein-hallo</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/EP06_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Wed, 11 Jul 2018 09:04:11 +0200</pubDate>
+            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:duration>0:05:00</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>https://www.aufeinohr.de/content/episodes/EP06_AufEinOhr-Podcast.m4a</guid>
+        </item>
+        <item>
+            <title>Angriff aus dem Untergrund</title>
+            <itunes:summary>Die Wiese sieht aus wie ein Schlachtfeld. Wie bekomme ich den ungebetenen Gast wieder los?</itunes:summary>
+            <description>Die Wiese sieht aus wie ein Schlachtfeld. Wie bekomme ich den ungebetenen Gast wieder los?</description>
+            <link>https://www.aufeinohr.de/posts/angriff-aus-dem-untergrund</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/EP07_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Wed, 21 Jul 2018 11:24:11 +0200</pubDate>
+            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:duration>0:03:07</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>https://www.aufeinohr.de/content/episodes/EP07_AufEinOhr-Podcast.m4a</guid>
+        </item>
+    </channel>
 </rss>
