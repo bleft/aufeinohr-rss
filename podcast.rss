@@ -10,7 +10,7 @@
         <itunes:summary>Ein personal Podcast zum Hören auf die Öhren</itunes:summary>
         <itunes:owner>
             <name>AufEinOhr.de</name>
-            <email>info@AufEinOhr.de</email>
+            <email>info@aufeinohr.de</email>
         </itunes:owner>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://www.aufeinohr.de/content/podcast-icon.jpg"></itunes:image>
@@ -24,7 +24,7 @@
             <pubDate>Wed, 28 Mar 2018 13:26:12 +0000</pubDate>
             <itunes:author>AufEinOhr</itunes:author>
             <itunes:duration>00:01:48</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>NO</itunes:explicit>
             <guid>http://www.aufeinohr.de/posts/test</guid>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <pubDate>Wed, 18 Apr 2018 18:26:12 +0000</pubDate>
             <itunes:author>AufEinOhr</itunes:author>
             <itunes:duration>00:01:48</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>NO</itunes:explicit>
             <guid>http://www.aufeinohr.de/posts/start</guid>
         </item>
         <item>
@@ -48,7 +48,7 @@
             <pubDate>Tue, 25 Apr 2018 00:26:12 +0000</pubDate>
             <itunes:author>AufEinOhr</itunes:author>
             <itunes:duration>00:08:48</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>NO</itunes:explicit>
             <guid>http://www.aufeinohr.de/posts/erstewoche</guid>
         </item>
         <item>
@@ -102,16 +102,44 @@ Aber ich wollte einfach mal kurz Hallo sagen.</description>
             <guid>https://www.aufeinohr.de/content/episodes/EP06_AufEinOhr-Podcast.m4a</guid>
         </item>
         <item>
+            <title>Ab in den Urlaub</title>
+            <itunes:summary></itunes:summary>
+            <description>Ich packe meine Koffer, ach nein die sind ja schon am Urlaubsort gelandet.
+Wir fahren mit der Bahn nach Spiekeroog, davor wurde aber noch die Straße gelöscht. Zum Glück hatte ich aber die Wahl</description>
+            <link>https://www.aufeinohr.de/posts/ab-in-den-urlaub</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/EP08_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Fri, 10 Aug 2018 14:03:32 +0200</pubDate>
+            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:duration>00:05:00</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>CC400CDF-D316-4CB2-8682-252E6BC57A73</guid>
+        </item>
+        <item>
             <title>Angriff aus dem Untergrund</title>
             <itunes:summary>Die Wiese sieht aus wie ein Schlachtfeld. Wie bekomme ich den ungebetenen Gast wieder los?</itunes:summary>
             <description>Die Wiese sieht aus wie ein Schlachtfeld. Wie bekomme ich den ungebetenen Gast wieder los?</description>
-            <link>https://www.aufeinohr.de/posts/angriff-aus-dem-untergrund</link>
+            <link>https://www.aufeinohr.de/posts/ab-in-den-urlaub</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP07_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Wed, 21 Jul 2018 11:24:11 +0200</pubDate>
             <itunes:author>AufEinOhr.de</itunes:author>
             <itunes:duration>0:03:07</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>https://www.aufeinohr.de/content/episodes/EP07_AufEinOhr-Podcast.m4a</guid>
+        </item>
+        <item>
+            <title>Auf nach Spiekeroog</title>
+            <itunes:summary>Auf die Bahn ist doch verlass.
+Trotz Zugausfalls sind wir pünktlich zur Fähre gekommen. Es war auch relativ bequem und entspannt. Ankunft auf Spiekeroog war verregnet, doch das Wetter wird besser.
+Erster Tag am Strand war bereits wunderbar.</itunes:summary>
+            <description>Auf die Bahn ist doch verlass. Trotz Zugausfalls sind wir pünktlich zur Fähre gekommen. Es war auch relativ bequem und entspannt.
+Ankunft auf Spiekeroog war verregnet, doch das Wetter wird besser. Erster Tag am Strand war bereits wunderbar.</description>
+            <link>https://aufeinohr.de/posts/auf-nach-spiekeroog</link>
+            <enclosure url="https://aufeinohr.de/content/episodes/EP09_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Sun, 12 Aug 2018 17:01:55 +0200</pubDate>
+            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:duration>00:06:09</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>D985CF09-4FCA-486F-8FDC-251C52947FC7</guid>
         </item>
     </channel>
 </rss>
