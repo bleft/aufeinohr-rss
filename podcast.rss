@@ -129,10 +129,13 @@ Wir fahren mit der Bahn nach Spiekeroog, davor wurde aber noch die Straße gelö
         <item>
             <title>Auf nach Spiekeroog</title>
             <itunes:summary>Auf die Bahn ist doch verlass.
-Trotz Zugausfalls sind wir pünktlich zur Fähre gekommen. Es war auch relativ bequem und entspannt. Ankunft auf Spiekeroog war verregnet, doch das Wetter wird besser.
+Trotz Zugausfalls sind wir pünktlich zur Fähre gekommen. Es war auch relativ bequem und entspannt.
+Ankunft auf Spiekeroog war verregnet, doch das Wetter wird besser.
 Erster Tag am Strand war bereits wunderbar.</itunes:summary>
-            <description>Auf die Bahn ist doch verlass. Trotz Zugausfalls sind wir pünktlich zur Fähre gekommen. Es war auch relativ bequem und entspannt.
-Ankunft auf Spiekeroog war verregnet, doch das Wetter wird besser. Erster Tag am Strand war bereits wunderbar.</description>
+            <description>Auf die Bahn ist doch verlass.
+Trotz Zugausfalls sind wir pünktlich zur Fähre gekommen. Es war auch relativ bequem und entspannt.
+Ankunft auf Spiekeroog war verregnet, doch das Wetter wird besser.
+Erster Tag am Strand war bereits wunderbar.</description>
             <link>https://aufeinohr.de/posts/auf-nach-spiekeroog</link>
             <enclosure url="https://aufeinohr.de/content/episodes/EP09_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Sun, 12 Aug 2018 17:01:55 +0200</pubDate>
@@ -140,6 +143,18 @@ Ankunft auf Spiekeroog war verregnet, doch das Wetter wird besser. Erster Tag am
             <itunes:duration>00:06:09</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>D985CF09-4FCA-486F-8FDC-251C52947FC7</guid>
+        </item>
+        <item>
+            <title>Guten Rusch!</title>
+            <itunes:summary>Ich wünsche euch einen guten Rutsch und ein frohes Neues Jahr!</itunes:summary>
+            <description>Ich wünsche euch einen guten Rutsch und ein frohes Neues Jahr!</description>
+            <link>https://www.aufeinohr.de/posts/guten-rutsch</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/EP10_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Mon, 31 Dec 2018 17:00:11 +0200</pubDate>
+            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:duration>0:00:48</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>https://www.aufeinohr.de/content/episodes/EP10_AufEinOhr-Podcast.m4a</guid>
         </item>
     </channel>
 </rss>
