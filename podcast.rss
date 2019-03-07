@@ -156,5 +156,25 @@ Erster Tag am Strand war bereits wunderbar.</description>
             <itunes:explicit>NO</itunes:explicit>
             <guid>https://www.aufeinohr.de/content/episodes/EP10_AufEinOhr-Podcast.m4a</guid>
         </item>
+        <item>
+            <title>Neujahrsansprache</title>
+            <itunes:summary>Was das nicht mehr allzu neue Jahr gebracht hat.
+Apple Play, leider nicht mit der Hausbank, darum per Konto bei N26.
+Gefahren wird nun elektrisch im i3.
+Der Mac mini ist nun angeschlossen und eingerichtet, jedoch noch nicht produktiv im Einsatz.
+Magic Trackpads günstig bei Ebay bekommen. Nur eines durfte bleiben, das Zweite machte sich wieder auf die Reise.</itunes:summary>
+            <description>Was das nicht mehr allzu neue Jahr gebracht hat.
+Apple Play, leider nicht mit der Hausbank, darum per Konto bei N26.
+Gefahren wird nun elektrisch im i3.
+Der Mac mini ist nun angeschlossen und eingerichtet, jedoch noch nicht produktiv im Einsatz.
+Magic Trackpads günstig bei Ebay bekommen. Nur eines durfte bleiben, das Zweite machte sich wieder auf die Reise.</description>
+            <link>https://aufeinohr.de/posts/neujahrsansprache</link>
+            <enclosure url="https://aufeinohr.de/content/episodes/EP11_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Thu, 07 Mar 2019 17:07:24 +0100</pubDate>
+            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:duration>00:08:01</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>534371DC-9EBB-4431-B120-44C28BF44026</guid>
+        </item>
     </channel>
 </rss>
