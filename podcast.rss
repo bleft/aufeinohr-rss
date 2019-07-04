@@ -6,25 +6,23 @@
         <language>de-de</language>
         <description>Ein personal Podcast zum Hören auf die Öhren</description>
         <itunes:subtitle>Ein personal Podcast zum Hören auf die Öhren</itunes:subtitle>
-        <itunes:author>AufEinOhr.de</itunes:author>
+        <itunes:author>Sven Bautz</itunes:author>
         <itunes:summary>Ein personal Podcast zum Hören auf die Öhren</itunes:summary>
         <itunes:owner>
-            <itunes:name>Sven B.</name>
-            <itunes:email>info@aufeinohr.de</email>
+            <itunes:name>Sven Bautz</itunes:name>
+            <itunes:email>info@aufeinohr.de</itunes:email>
         </itunes:owner>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://www.aufeinohr.de/content/podcast-icon.jpg"></itunes:image>
-		<itunes:category text="Society &amp; Culture"><itunes:category text="Personal Journals"></itunes:category></itunes:category>
-		<itunes:category text="Games &amp; Hobbies"><itunes:category text="Hobbies"></itunes:category></itunes:category><itunes:category text="Technology"><itunes:category text="Podcasting"></itunes:category></itunes:category>        
-		
-		<item>
+        <itunes:category text="Personal Journals"></itunes:category>
+        <item>
             <title>Test</title>
             <itunes:summary>Test des Workflows und der RSS Erstellung</itunes:summary>
             <description>Test des Workflows und der RSS Erstellung</description>
             <link>https://www.aufeinohr.de/posts/test</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/tetris.m4a"></enclosure>
             <pubDate>Wed, 28 Mar 2018 13:26:12 +0000</pubDate>
-            <itunes:author>AufEinOhr</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>00:01:48</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>http://www.aufeinohr.de/posts/test</guid>
@@ -36,7 +34,7 @@
             <link>https://www.aufeinohr.de/posts/start</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP01_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Wed, 18 Apr 2018 18:26:12 +0000</pubDate>
-            <itunes:author>AufEinOhr</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>00:01:48</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>http://www.aufeinohr.de/posts/start</guid>
@@ -48,7 +46,7 @@
             <link>https://www.aufeinohr.de/posts/erstewoche</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP02_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Tue, 25 Apr 2018 00:26:12 +0000</pubDate>
-            <itunes:author>AufEinOhr</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>00:08:48</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>http://www.aufeinohr.de/posts/erstewoche</guid>
@@ -60,7 +58,7 @@
             <link>https://www.aufeinohr.de/posts/wochenende</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP03_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Sat, 28 Apr 2018 10:22:26 +0200</pubDate>
-            <itunes:author>AufEinOhr</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>0:01:22</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>http://www.aufeinohr.de/posts/wochenende</guid>
@@ -72,7 +70,7 @@
             <link>https://www.aufeinohr.de/posts/aufeinfloss</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP04_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Thu, 3 May 2018 00:59:43 +0200</pubDate>
-            <itunes:author>AufEinOhr</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>0:07:00</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>http://www.aufeinohr.de/content/episodes/EP04_AufEinOhr-Podcast.m4a</guid>
@@ -84,7 +82,7 @@
             <link>https://aufeinohr.de/posts/vatertag</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP05_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Thu, 10 May 2018 14:55:05 +0200</pubDate>
-            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>0:07:00</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>https://www.aufeinohr.de/content/episodes/EP05_AufEinOhr-Podcast.m4a</guid>
@@ -98,10 +96,22 @@ Aber ich wollte einfach mal kurz Hallo sagen.</description>
             <link>https://www.aufeinohr.de/posts/auf-ein-hallo</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP06_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Wed, 11 Jul 2018 09:04:11 +0200</pubDate>
-            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>0:05:00</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>https://www.aufeinohr.de/content/episodes/EP06_AufEinOhr-Podcast.m4a</guid>
+        </item>
+        <item>
+            <title>Angriff aus dem Untergrund</title>
+            <itunes:summary>Die Wiese sieht aus wie ein Schlachtfeld. Wie bekomme ich den ungebetenen Gast wieder los?</itunes:summary>
+            <description>Die Wiese sieht aus wie ein Schlachtfeld. Wie bekomme ich den ungebetenen Gast wieder los?</description>
+            <link>https://www.aufeinohr.de/posts/ab-in-den-urlaub</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/EP07_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Wed, 21 Jul 2018 11:24:11 +0200</pubDate>
+            <itunes:author>Sven</itunes:author>
+            <itunes:duration>0:03:07</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>https://www.aufeinohr.de/content/episodes/EP07_AufEinOhr-Podcast.m4a</guid>
         </item>
         <item>
             <title>Ab in den Urlaub</title>
@@ -111,22 +121,10 @@ Wir fahren mit der Bahn nach Spiekeroog, davor wurde aber noch die Straße gelö
             <link>https://www.aufeinohr.de/posts/ab-in-den-urlaub</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP08_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Fri, 10 Aug 2018 14:03:32 +0200</pubDate>
-            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>00:05:00</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>CC400CDF-D316-4CB2-8682-252E6BC57A73</guid>
-        </item>
-        <item>
-            <title>Angriff aus dem Untergrund</title>
-            <itunes:summary>Die Wiese sieht aus wie ein Schlachtfeld. Wie bekomme ich den ungebetenen Gast wieder los?</itunes:summary>
-            <description>Die Wiese sieht aus wie ein Schlachtfeld. Wie bekomme ich den ungebetenen Gast wieder los?</description>
-            <link>https://www.aufeinohr.de/posts/ab-in-den-urlaub</link>
-            <enclosure url="https://www.aufeinohr.de/content/episodes/EP07_AufEinOhr-Podcast.m4a"></enclosure>
-            <pubDate>Wed, 21 Jul 2018 11:24:11 +0200</pubDate>
-            <itunes:author>AufEinOhr.de</itunes:author>
-            <itunes:duration>0:03:07</itunes:duration>
-            <itunes:explicit>NO</itunes:explicit>
-            <guid>https://www.aufeinohr.de/content/episodes/EP07_AufEinOhr-Podcast.m4a</guid>
         </item>
         <item>
             <title>Auf nach Spiekeroog</title>
@@ -141,7 +139,7 @@ Erster Tag am Strand war bereits wunderbar.</description>
             <link>https://aufeinohr.de/posts/auf-nach-spiekeroog</link>
             <enclosure url="https://aufeinohr.de/content/episodes/EP09_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Sun, 12 Aug 2018 17:01:55 +0200</pubDate>
-            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>00:06:09</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>D985CF09-4FCA-486F-8FDC-251C52947FC7</guid>
@@ -153,7 +151,7 @@ Erster Tag am Strand war bereits wunderbar.</description>
             <link>https://www.aufeinohr.de/posts/guten-rutsch</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP10_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Mon, 31 Dec 2018 17:00:11 +0200</pubDate>
-            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>0:00:48</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>https://www.aufeinohr.de/content/episodes/EP10_AufEinOhr-Podcast.m4a</guid>
@@ -173,7 +171,7 @@ Magic Trackpads günstig bei Ebay bekommen. Nur eines durfte bleiben, das Zweite
             <link>https://aufeinohr.de/posts/neujahrsansprache</link>
             <enclosure url="https://aufeinohr.de/content/episodes/EP11_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Thu, 07 Mar 2019 17:07:24 +0100</pubDate>
-            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>00:08:01</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>534371DC-9EBB-4431-B120-44C28BF44026</guid>
@@ -199,7 +197,7 @@ Hört mal rein: http://gerards-welt.de/</description>
             <link>https://www.aufeinohr.de/posts/unterwegs</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP12_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Sat, 30 Mar 2019 08:30:11 +0200</pubDate>
-            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>0:08:48</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>https://www.aufeinohr.de/content/episodes/EP12_AufEinOhr-Podcast.m4a</guid>
@@ -211,7 +209,7 @@ Hört mal rein: http://gerards-welt.de/</description>
             <link>https://www.aufeinohr.de/posts/lebenszeichen</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP13_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Mon, 24 Jun 2019 22:30:11 +0200</pubDate>
-            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>0:07:48</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>https://www.aufeinohr.de/content/episodes/EP13_AufEinOhr-Podcast.m4a</guid>
@@ -225,7 +223,7 @@ Die Zugfahrt war erst verspätet doch dann gings doch recht flott. Unterwegs bin
             <link>https://www.aufeinohr.de/posts/grillseminar</link>
             <enclosure url="https://www.aufeinohr.de/content/episodes/EP14_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Tue, 02 Jul 2019 23:30:11 +0200</pubDate>
-            <itunes:author>AufEinOhr.de</itunes:author>
+            <itunes:author>Sven</itunes:author>
             <itunes:duration>0:13:48</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>https://www.aufeinohr.de/content/episodes/EP14_AufEinOhr-Podcast.m4a</guid>
