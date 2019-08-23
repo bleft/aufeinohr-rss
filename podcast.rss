@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Auf ein Ohr</title>
         <link>https://www.aufeinohr.de</link>
@@ -7,6 +7,7 @@
         <description>Ein personal Podcast zum Hören auf die Öhren</description>
         <itunes:subtitle>Ein personal Podcast zum Hören auf die Öhren</itunes:subtitle>
         <itunes:author>Sven Bautz</itunes:author>
+        <copyright>Copyright 2019 Sven Bautz</copyright>
         <itunes:summary>Ein personal Podcast zum Hören auf die Öhren</itunes:summary>
         <itunes:owner>
             <itunes:name>Sven Bautz</itunes:name>
@@ -227,6 +228,18 @@ Die Zugfahrt war erst verspätet doch dann gings doch recht flott. Unterwegs bin
             <itunes:duration>0:13:48</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>https://www.aufeinohr.de/content/episodes/EP14_AufEinOhr-Podcast.m4a</guid>
+        </item>
+        <item>
+            <title>Urlaubszeit</title>
+            <itunes:summary></itunes:summary>
+            <description></description>
+            <link>https://aufeinohr.de/posts/urlaubszeit</link>
+            <enclosure url="https://www.aufeinohr.de/content/episodes/EP15_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Fri, 23 Aug 2019 18:29:59 +0200</pubDate>
+            <itunes:author>Sven Bautz</itunes:author>
+            <itunes:duration>00:07:45</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>BD586520-007E-4903-A301-96BF41E5077D</guid>
         </item>
     </channel>
 </rss>
