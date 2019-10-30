@@ -241,5 +241,19 @@ Die Zugfahrt war erst verspätet doch dann gings doch recht flott. Unterwegs bin
             <itunes:explicit>NO</itunes:explicit>
             <guid>BD586520-007E-4903-A301-96BF41E5077D</guid>
         </item>
+        <item>
+            <title>Auto Motorisiert</title>
+            <itunes:summary></itunes:summary>
+            <description>Ich habe das Heim automatisiert, jedoch ist das Bluetoothkabel zu kurz. Abhilfe sollte mir homebridge-ranger leisten. Leider habe ich es “auf die Schnelle” nicht hinbekommen. Und da es langsam frisch wird, hab ich den Eve extend (affiliate) bestellt.
+Ich spiele vermehrt Gitarre. Leider allein, doch mit Rocksmithkann man ganz gut abrocken.
+Der i3 hat seine Winterreifen bekommen. Ein Benziner als Servicewagen war nicht ideal.</description>
+            <link>https://aufeinohr.de/posts/auto-motorisisert/</link>
+            <enclosure url="https://aufeinohr.de/content/episodes/EP16_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Wed, 30 Oct 2019 23:12:32 +0100</pubDate>
+            <itunes:author>Sven Bautz</itunes:author>
+            <itunes:duration>00:12:37</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>7D0D2CDE-45DC-40CB-9503-41599632F96F</guid>
+        </item>
     </channel>
 </rss>
