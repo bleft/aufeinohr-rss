@@ -271,5 +271,17 @@ Der i3 hat seine Winterreifen bekommen. Ein Benziner als Servicewagen war nicht 
             <itunes:explicit>NO</itunes:explicit>
             <guid>A3405E77-8305-4640-B539-024C819A4B6E</guid>
         </item>
+        <item>
+            <title>KdB zum Frühstück</title>
+            <itunes:summary>Ein Kurzdawzischengeblubbert (ist der Begriff eigentlich geschützt?) aus der Bettstatt. </itunes:summary>
+            <description>Ein Kurzdawzischengeblubbert (ist der Begriff eigentlich geschützt?) aus der Bettstatt.</description>
+            <link>https://aufeinohr.de/posts/neue-reifen</link>
+            <enclosure url="https://aufeinohr.de/content/episodes/EP18_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Sat, 30 Nov 2019 09:34:35 +0100</pubDate>
+            <itunes:author>Sven Bautz</itunes:author>
+            <itunes:duration>00:04:13</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>024C819A4B6-8305-4640-B539-024C819A4B6E</guid>
+        </item>
     </channel>
 </rss>
