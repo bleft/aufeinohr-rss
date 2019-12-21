@@ -273,7 +273,7 @@ Der i3 hat seine Winterreifen bekommen. Ein Benziner als Servicewagen war nicht 
         </item>
         <item>
             <title>KdB zum Frühstück</title>
-            <itunes:summary>Ein Kurzdawzischengeblubbert (ist der Begriff eigentlich geschützt?) aus der Bettstatt. </itunes:summary>
+            <itunes:summary>Ein Kurzdawzischengeblubbert (ist der Begriff eigentlich geschützt?) aus der Bettstatt.</itunes:summary>
             <description>Ein Kurzdawzischengeblubbert (ist der Begriff eigentlich geschützt?) aus der Bettstatt.</description>
             <link>https://aufeinohr.de/posts/neue-reifen</link>
             <enclosure url="https://aufeinohr.de/content/episodes/EP18_AufEinOhr-Podcast.m4a"></enclosure>
@@ -282,6 +282,28 @@ Der i3 hat seine Winterreifen bekommen. Ein Benziner als Servicewagen war nicht 
             <itunes:duration>00:04:13</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>024C819A4B6-8305-4640-B539-024C819A4B6E</guid>
+        </item>
+        <item>
+            <title>Weihnachtszeit</title>
+            <itunes:summary> Besuch der Weihnachtsmärkte
+* Der Große hatte seinen ersten Auftritt vor großem Publikum beim Jahreskonzert de Musikschule.
+* Der 3D Drucker druckt endlich leise
+* Ich interessiere mich für den Angelschein
+* Ich wünsche euch allen eine frohe Weihnachtszeit und einen guten Rutsch in neue Jahr. 
+</itunes:summary>
+            <description> Besuch der Weihnachtsmärkte
+* Der Große hatte seinen ersten Auftritt vor großem Publikum beim Jahreskonzert de Musikschule.
+* Der 3D Drucker druckt endlich leise
+* Ich interessiere mich für den Angelschein
+* Ich wünsche euch allen eine frohe Weihnachtszeit und einen guten Rutsch in neue Jahr. 
+</description>
+            <link></link>
+            <enclosure url=""></enclosure>
+            <pubDate>Sat, 21 Dec 2019 11:17:47 +0100</pubDate>
+            <itunes:author>Sven Bautz</itunes:author>
+            <itunes:duration>00:07:29</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>3D711E73-2B65-416F-8DA6-0808C37A9C55</guid>
         </item>
     </channel>
 </rss>
