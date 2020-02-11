@@ -7,7 +7,7 @@
         <description>Ein personal Podcast zum Hören auf die Öhren</description>
         <itunes:subtitle>Ein personal Podcast zum Hören auf die Öhren</itunes:subtitle>
         <itunes:author>Sven Bautz</itunes:author>
-        <copyright>Copyright 2019 Sven Bautz</copyright>
+        <copyright>Copyright 2020 Sven Bautz</copyright>
         <itunes:summary>Ein personal Podcast zum Hören auf die Öhren</itunes:summary>
         <itunes:owner>
             <itunes:name>Sven Bautz</itunes:name>
@@ -285,18 +285,16 @@ Der i3 hat seine Winterreifen bekommen. Ein Benziner als Servicewagen war nicht 
         </item>
         <item>
             <title>Weihnachtszeit</title>
-            <itunes:summary> Besuch der Weihnachtsmärkte
+            <itunes:summary>Besuch der Weihnachtsmärkte
 * Der Große hatte seinen ersten Auftritt vor großem Publikum beim Jahreskonzert de Musikschule.
 * Der 3D Drucker druckt endlich leise
 * Ich interessiere mich für den Angelschein
-* Ich wünsche euch allen eine frohe Weihnachtszeit und einen guten Rutsch in neue Jahr. 
-</itunes:summary>
-            <description> Besuch der Weihnachtsmärkte
+* Ich wünsche euch allen eine frohe Weihnachtszeit und einen guten Rutsch in neue Jahr.</itunes:summary>
+            <description>Besuch der Weihnachtsmärkte
 * Der Große hatte seinen ersten Auftritt vor großem Publikum beim Jahreskonzert de Musikschule.
 * Der 3D Drucker druckt endlich leise
 * Ich interessiere mich für den Angelschein
-* Ich wünsche euch allen eine frohe Weihnachtszeit und einen guten Rutsch in neue Jahr. 
-</description>
+* Ich wünsche euch allen eine frohe Weihnachtszeit und einen guten Rutsch in neue Jahr.</description>
             <link>https://aufeinohr.de/posts/weihnachtszeit</link>
             <enclosure url="https://aufeinohr.de/content/episodes/EP19_AufEinOhr-Podcast.m4a"></enclosure>
             <pubDate>Sat, 21 Dec 2019 11:17:47 +0100</pubDate>
@@ -308,10 +306,10 @@ Der i3 hat seine Winterreifen bekommen. Ein Benziner als Servicewagen war nicht 
         <item>
             <title>Männer Wellness</title>
             <itunes:summary>Neues Jahr, 2020, am 20.01.2020 die 20. Folge.  
-Ich berichte über das Männerwellnesswochenende.  
+Ich berichteüber das Männerwellnesswochenende.  
 Dank eines Protestes der Landwirte wäre die Heimfahrt fast in die Hose gegangen.</itunes:summary>
             <description>Neues Jahr, 2020, am 20.01.2020 die 20. Folge.  
-Ich berichte über das Männerwellnesswochenende.  
+Ich berichteüber das Männerwellnesswochenende.  
 Dank eines Protestes der Landwirte wäre die Heimfahrt fast in die Hose gegangen.</description>
             <link>https://aufeinohr.de/posts/männer-wellness/</link>
             <enclosure url="https://aufeinohr.de/content/episodes/EP20_AufEinOhr-Podcast.m4a"></enclosure>
@@ -320,6 +318,18 @@ Dank eines Protestes der Landwirte wäre die Heimfahrt fast in die Hose gegangen
             <itunes:duration>00:09:47</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>20202001-8305-4640-B539-020202010</guid>
+        </item>
+        <item>
+            <title>Bettgeflüster</title>
+            <itunes:summary></itunes:summary>
+            <description></description>
+            <link>https://aufeinohr.de/posts/bettgefluester</link>
+            <enclosure url="https://aufeinohr.de/content/episodes/EP20_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Tue, 11 Feb 2020 08:38:29 +0100</pubDate>
+            <itunes:author>Sven Bautz</itunes:author>
+            <itunes:duration>00:06:10</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>647DA92D-76B7-4015-BA7B-1ECA8915843B</guid>
         </item>
     </channel>
 </rss>
