@@ -321,14 +321,14 @@ Dank eines Protestes der Landwirte wäre die Heimfahrt fast in die Hose gegangen
         </item>
         <item>
             <title>Bettgeflüster</title>
-            <itunes:summary>Eine Folge vor dem Schlafengehen. Mit GarageBand auf dem iPhone „produziert“. Ungeschnitten und grob. Deshalb auch ohne Intro, dafür mit live eingespieltem Outro.
+            <itunes:summary>Eine Folge vor dem Schlafengehen. Mit GarageBand auf dem iPhone„produziert“. Ungeschnitten und grob. Deshalb auch ohne Intro, dafür mit live eingespieltem Outro.
 
 Es geht um:
 
 den Orkan Sabine, welcher hier zum Glück nur für einen schulfreien Tag gesorgt hat.
 Die Ausbildung für den Fischereischein beschäftigt mich grad sehr.
 Ohrenschmerzen sind doof.</itunes:summary>
-            <description>Eine Folge vor dem Schlafengehen. Mit GarageBand auf dem iPhone „produziert“. Ungeschnitten und grob. Deshalb auch ohne Intro, dafür mit live eingespieltem Outro.
+            <description>Eine Folge vor dem Schlafengehen. Mit GarageBand auf dem iPhone„produziert“. Ungeschnitten und grob. Deshalb auch ohne Intro, dafür mit live eingespieltem Outro.
 
 Es geht um:
 
@@ -342,6 +342,22 @@ Ohrenschmerzen sind doof.</description>
             <itunes:duration>00:06:10</itunes:duration>
             <itunes:explicit>NO</itunes:explicit>
             <guid>647DA92D-76B7-4015-BA7B-1ECA8915843B</guid>
+        </item>
+        <item>
+            <title>Fisch und Fertig</title>
+            <itunes:summary>- Die Angelprüfung ist bestanden. Der Einstieg in dieses Hobby ist zwar ein teurer Spaß, die laufenden Kosten sollten sich dann aber in Grenzen halten. 
+- GeForce now ist auf den ersten Blick vielversprechend - ich kämpfe aber noch mit der Qualität des Streams.
+Kleine Korrektur: Es ist die Ausgabe Nr. 22.</itunes:summary>
+            <description>- Die Angelprüfung ist bestanden. Der Einstieg in dieses Hobby ist zwar ein teurer Spaß, die laufenden Kosten sollten sich dann aber in Grenzen halten. 
+- GeForce now ist auf den ersten Blick vielversprechend - ich kämpfe aber noch mit der Qualität des Streams.
+Kleine Korrektur: Es ist die Ausgabe Nr. 22.</description>
+            <link>https://aufeinohr.de/posts/fisch-und-fertig/</link>
+            <enclosure url="https://aufeinohr.de/content/episodes/EP22_AufEinOhr-Podcast.m4a"></enclosure>
+            <pubDate>Wed, 19 Feb 2020 21:45:26 +0100</pubDate>
+            <itunes:author>Sven Bautz</itunes:author>
+            <itunes:duration>00:09:43</itunes:duration>
+            <itunes:explicit>NO</itunes:explicit>
+            <guid>0092C4E0-E4A7-4DEB-9A42-7C8C068DF689</guid>
         </item>
     </channel>
 </rss>
